@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "luma",
+  "theme": "aspen",
   "name": "Private Stories",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#7033ff",
+    "light": "#8c5cff",
+    "dark": "#5924d9"
   },
   "favicon": {
     "light": "/images/bonkers_image_clean_neutral_background(1).png",
@@ -33,7 +33,7 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
+    "light": "/images/bonkers_image_clean_neutral_background(1).png",
     "dark": "/images/bonkers_image_clean_neutral_background(1).png"
   },
   "navbar": {
@@ -64,5 +64,14 @@
     "fonts": {
       "family": "Poppins"
     }
+  },
+  "background": {
+    "color": {
+      "light": "#fdfdfd",
+      "dark": "#1a1b1e"
+    }
+  },
+  "icons": {
+    "library": "lucide"
   }
 }
