@@ -3,7 +3,7 @@
   "theme": "aspen",
   "name": "Private Stories",
   "colors": {
-    "primary": "#7033ff",
+    "primary": "#f87171",
     "light": "#8c5cff",
     "dark": "#5924d9"
   },
@@ -13,18 +13,9 @@
   },
   "navigation": {
     "pages": [
+      "untitled-page",
       {
         "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
-      }
-    ],
-    "groups": [
-      {
-        "group": "Getting Started",
-        "icon": "hourglass-start",
         "pages": [
           "index",
           "quickstart"
