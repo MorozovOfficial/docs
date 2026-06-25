@@ -1,13 +1,16 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "theme": "luma",
+  "name": "Private Stories",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/images/bonkers_image_clean_neutral_background(1).png",
+    "dark": "/images/bonkers_image_clean_neutral_background(1).png"
+  },
   "navigation": {
     "pages": [
       {
@@ -35,15 +38,10 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/images/bonkers_image_clean_neutral_background(1).png"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
+    "links": [],
     "primary": {
       "type": "button",
       "label": "Dashboard",
@@ -62,11 +60,13 @@
       "vscode"
     ]
   },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+  "fonts": {
+    "family": "Poppins"
+  },
+  "thumbnails": {
+    "background": "/images/bonkers_image_clean_neutral_background(1).png",
+    "fonts": {
+      "family": "Poppins"
     }
   }
 }
