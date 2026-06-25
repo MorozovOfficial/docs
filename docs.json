@@ -13,7 +13,19 @@
   },
   "navigation": {
     "pages": [
-      "untitled-page"
+      "home-ru",
+      {
+        "group": "Русский",
+        "pages": [
+          "menyu"
+        ]
+      },
+      {
+        "group": "English",
+        "pages": [
+          "home-en"
+        ]
+      }
     ]
   },
   "logo": {
