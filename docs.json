@@ -13,11 +13,11 @@
   },
   "navigation": {
     "pages": [
-      "home-ru",
+      "home",
       {
         "group": "Русский",
         "pages": [
-          "menyu"
+          "home-ru"
         ]
       },
       {
