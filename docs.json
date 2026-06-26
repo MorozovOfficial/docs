@@ -17,13 +17,17 @@
       {
         "group": "Русский",
         "pages": [
-          "home-ru"
+          "home-ru",
+          "roadmap-ru",
+          "stories-ru"
         ]
       },
       {
         "group": "English",
         "pages": [
-          "home-en"
+          "home-en",
+          "roadmap-en",
+          "stories-en"
         ]
       }
     ]
