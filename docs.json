@@ -44,9 +44,6 @@
       "href": "https://app.mintlify.com"
     }
   },
-  "fonts": {
-    "family": "Poppins"
-  },
   "thumbnails": {
     "background": "/images/bonkers_image_clean_neutral_background(1).png",
     "fonts": {
